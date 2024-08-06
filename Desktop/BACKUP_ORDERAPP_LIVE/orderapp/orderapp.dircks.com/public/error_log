@@ -1,0 +1,2 @@
+[26-Jan-2024 19:54:20 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SuperDispatchController::$superDispatchClientSecret in /home/dreamzon/public_html/dircks.xelentor.com/app/Http/Controllers/SuperDispatchController.php on line 13
+[28-Feb-2024 06:21:16 UTC] PHP Fatal error:  Cannot use App\Dispatcher as Dispatcher because the name is already in use in /home/dreamzon/public_html/dircks.xelentor.com/app/Http/Controllers/OrdersController.php on line 13
